@@ -38,7 +38,7 @@ Since February 2025, I've been interning at Integr8 Consulting (i8c), working on
 📧 Email: Aron.van.daele1@gmail.com<br>
 📱 Phone: +32 478 747 096<br>
 📍 Location: Berlare, Belgium<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-van-daele-612a16301) 
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-van-daele-612a16301) 
 
 # 📌 **Soft Skills**<br>
 - Team player<br>
