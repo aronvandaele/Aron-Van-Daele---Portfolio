@@ -60,7 +60,7 @@ All my certifications & badges are on my Credly / LinkedIn:
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aron-van-daele)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-van-daele-612a16301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-van-daele-612a16301)
 
 # 💻 Tech Stack
 
